@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: aqua;
+}
+
+#game {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#dealer, #player {
+  display: inline-block;
+  vertical-align: top;
+  margin: 20px;
+}
+
+#dealer-cards, #player-cards {
+  margin-top: 10px;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+}
